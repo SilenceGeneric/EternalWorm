@@ -51,8 +51,7 @@ This script is for educational purposes to demonstrate the potential risks of ph
 Running this script outside a safe, controlled environment can be illegal and unethical. **Do not** send emails like this without explicit permission, as it can cause real harm to individuals and organizations.
 
 ## License
-This script is licensed under the MIT License. Use it responsibly and ensure you are following local laws and ethical guidelines when conducting cybersecurity training or penetration testing.
+This script has no license therefore I own All Rights you can look at my code but you're not allowed to use it in any way whatsoever. if you use this script in any way and I find out about it and can prove it then I'm going to get your money because I like money. So does my attorney.
 
 ## Disclaimer
-The author of this script is not responsible for any misuse, damage, or harm caused by its execution. Use it at your own risk.
-
+The author of this script is not responsible for any misuse, damage, or harm caused by its execution. I own All rights to this program and no one is allowed to use it in any way. under no circumstances is anyone allowed to use my program for any purpose whatsoever I've shown the code but it's not open source even though you can see it, doesn't mean that you own the rights to it no I own All rights to this.
