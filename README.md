@@ -1,4 +1,4 @@
-# EternalWorm
+
 # README for Malicious Email Script
 
 ## Description
